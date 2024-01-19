@@ -5,3 +5,5 @@ Estoy haciendo pruebas
 [GitHub](https://github.com/DanielCabello99)
 ## Estilos
 **Esto** está en negrita
+*Esto* Está en cursiva
+***Esto*** Está en cursiva y en negrita
